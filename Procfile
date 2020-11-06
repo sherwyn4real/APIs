@@ -1,1 +1,1 @@
-web: nodemon Task5covid/server.js
+web:node Task5covid/server.js
