@@ -12,7 +12,7 @@ Team Member 3: Mohammad Saif Farooqui : frexmsf@gmail.com : 9657563675
 
 ## Project Details
 
-Hosted URL: <url>
+Hosted URL: https://codecrunch-s3.herokuapp.com/
   
 Tech Stack used:
 Python, Javascript, Node.js, Express.js
